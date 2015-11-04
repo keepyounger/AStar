@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5A4855961BE9E95D008171AC /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 5A4855951BE9E95D008171AC /* README.md */; };
 		5ABBB8701BE892D200EB697E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5ABBB86F1BE892D200EB697E /* main.m */; };
 		5ABBB8731BE892D200EB697E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5ABBB8721BE892D200EB697E /* AppDelegate.m */; };
 		5ABBB8761BE892D200EB697E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5ABBB8751BE892D200EB697E /* ViewController.m */; };
@@ -17,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		5A0B8E421BE9E72C0038E141 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		5A4855951BE9E95D008171AC /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		5ABBB86B1BE892D200EB697E /* AStar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AStar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5ABBB86F1BE892D200EB697E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		5ABBB8711BE892D200EB697E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -72,7 +73,7 @@
 				5ABBB87A1BE892D200EB697E /* Assets.xcassets */,
 				5ABBB87C1BE892D200EB697E /* LaunchScreen.storyboard */,
 				5ABBB87F1BE892D200EB697E /* Info.plist */,
-				5A0B8E421BE9E72C0038E141 /* README.md */,
+				5A4855951BE9E95D008171AC /* README.md */,
 				5ABBB86E1BE892D200EB697E /* Supporting Files */,
 			);
 			path = AStar;
@@ -158,6 +159,7 @@
 			files = (
 				5ABBB8761BE892D200EB697E /* ViewController.m in Sources */,
 				5ABBB8871BE8932400EB697E /* MapView.m in Sources */,
+				5A4855961BE9E95D008171AC /* README.md in Sources */,
 				5ABBB8731BE892D200EB697E /* AppDelegate.m in Sources */,
 				5ABBB8701BE892D200EB697E /* main.m in Sources */,
 			);
